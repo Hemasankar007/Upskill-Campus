@@ -28,7 +28,7 @@ To run the code locally, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/traffic-pattern-forecasting.git
+git clone gh repo clone Hemasankar007/SmartCity
 
 
 2. Install the required dependencies:
